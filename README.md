@@ -3,7 +3,7 @@
 
 https://drive.google.com/file/d/1NLRh03HEk11BX96aYBUawiXvsByVL7Ib/view?usp=sharing
 
-##Controls
+## Controls
 
 Spacebar: Shoot
 
